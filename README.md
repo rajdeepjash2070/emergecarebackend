@@ -31,8 +31,13 @@ Emergecare is an Wep+App+Chatbot Where patients can easily register themselves a
 Explaining the working of project
 
 ## Photos of the Project
-Images of the project (upload images in the asset folder and call the images here)
+https://drive.google.com/drive/folders/1USZAk4pARFs8aPCarcJpKiXPkEsXwH_b?usp=share_link
+There are some problem to upload images on github so it uploaded it on drive 
 
 ## Libraries used
-Library Name - Version
+React Js
+Express.Js
+Node.Js
+MongoDB
+for Website
 
