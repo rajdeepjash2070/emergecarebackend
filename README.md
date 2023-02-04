@@ -21,14 +21,14 @@ Emergecare is an Wep+App+Chatbot Where patients can easily register themselves a
 ## Team members
 
 1. Rajdeep Jash [https://github.com/rajdeepjash2070]
-2. Aditya Raj [Embed personal github URL]
-3. Anuraj KUmar [Embed personal github URL]
+2. Aditya Raj [https://github.com/dhruvaditya]
+3. Anuraj KUmar [https://github.com/anurajkumar23]
 
 
 <!-- ## Link to product walkthrough
 <a href="https://www.youtube.com/watch?v=cbzObD3_JeA" target="_blank" ><img src="https://github.com/Noel6161131110/OpenAI_Saturday_Hack_Night/blob/main/Youtube_logo_PNG7.png" width="300" height="150" ></a> -->
 ## How it Works ?
-Explaining the working of project
+At one Registered Hospitals will Add,Update and Delete Data and at another side Users can see and add on the Updated Data.Database of the MongoDB Connected with React Js via Node.Js and Express.JS.
 
 ## Photos of the Project
 https://drive.google.com/drive/folders/1USZAk4pARFs8aPCarcJpKiXPkEsXwH_b?usp=share_link
